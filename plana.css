@@ -131,6 +131,20 @@ a:hover{
     border-radius: 25px;
     text-decoration: none;
 }
+
+a#sitee{
+    color: #50731D;
+    padding: 5px;
+}
+
+a#sitee:hover{
+    text-decoration: none;
+    transition-duration: 2s;
+    background-color: #0D1F26;
+    color:  #EAF205;
+    border-radius: 25px;
+}
+
 footer{
     background-color: var(--cor3);
     color: white;
